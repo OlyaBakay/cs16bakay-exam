@@ -1,7 +1,5 @@
 package json;
 
-import com.sun.activation.registries.MailcapParseException;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
